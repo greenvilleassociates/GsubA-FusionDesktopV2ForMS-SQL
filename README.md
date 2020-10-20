@@ -1,4 +1,4 @@
-# Gsuba-fusion-Pro-V3 - This is an .Dot01 Product Release and will is EXPERIMENTAL IN NATURE.
+# Gsuba-Fusion-Pro-V3 - This is an .Dot01 Product Release and will is EXPERIMENTAL IN NATURE.
 
 Greenville Associates Fusion ProV3 for MS-SQL Customers - Microsoft Dynamics - (DYNAMICS-PRO).
 
