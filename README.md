@@ -1,6 +1,11 @@
 # Gsuba-fusion-Pro-V3
 Greenville Associates Fusion ProV3 for MS-SQL Customers - Microsoft Dynamics - (DYNAMICS-PRO).
 
+This product integrates public web services with an Enterprise ERP System by Microsoft - Microsoft Dynamics SL.
+Microsoft Dynamics does not provide a Front-Office Design capability out of the box, and this system significantly
+improves the product. G/a is also integrating Adobe Magento, and TomatoCart platforms in with Ms-SQL as the front-end
+commerce system.
+
 This shell provides a Open Platform Targeted Windowing System(On Windows/Linux/Unix) to provide javascript, HML5, PHP, Custom Microsoft(.ASPX), and Adobe Cold Fusion binaries to work in an integrated web framework. The Shell also hides the complexity of the software solution from the search bar, making it much friendlier to computer security architects. The shell works with IIS, Apache, and NGINX web servers without modification and links to any database platform supported by your web server. The First release
 is targeted for Mysql or Postgres Users using PHP or cPanel(Installatron or Softalicuous Users) but can be used as a standalone web page environment without them.
 
